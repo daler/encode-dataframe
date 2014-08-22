@@ -1,0 +1,1 @@
+wgEncodeNhgriBip.mm9.bed8.gz	project=wgEncode; grant=Elnitski; lab=NHGRI-Elnitski; composite=wgEncodeNhgriBip; dataType=Bip; dataVersion=ENCODE July 2009 Freeze; dateSubmitted=2009-01-27; dateUnrestricted=2009-10-27; subId=200; tableName=wgEncodeNhgriBip; type=bed8; md5sum=1b732bb12de859ae5e1c2ab15552d551; size=17K
