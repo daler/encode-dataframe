@@ -13,4 +13,5 @@ setup(
     author_email='dalerr@niddk.nih.gov',
     license='MIT',
     install_requires=['pandas'],
+    packages=find_packages(),
 )
