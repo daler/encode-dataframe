@@ -27,7 +27,7 @@ def mirror_metadata_files(genome, basedir='.'):
             -l 2
     )
     """.format(**locals())
-    print cmds
+    print(cmds)
     os.system(cmds)
 
 
