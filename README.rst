@@ -22,6 +22,14 @@ The `files.txt` files are downloaded from each ENCODE track hub in the assembly
 of interest.  Then these files are parsed and concatenated together into one
 big `pandas.DataFrame` that can be used to find the data you care about.
 
+Installation
+------------
+
+::
+
+    pip install encode-dataframe
+
+
 Usage
 -----
 Mirror the files.  This may take a minute or so.  If you've cloned the git
